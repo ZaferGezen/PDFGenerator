@@ -127,6 +127,7 @@ namespace PDFGenerator
             //btnFindHide.Visible = false;
             //rtbPDFTempData.Location = new Point(12,6);
             //rtbPDFTempData.Size = new Size(rtbPDFTempData.Width, rtbPDFTempData.Height+30);
+            startindex = 0;
             tbFind.Text = "";
         }
 
